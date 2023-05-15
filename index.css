@@ -1,0 +1,76 @@
+*{
+
+  box-sizing: border-box;
+}
+
+.sec1{
+  height: 36vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+   
+}
+
+.sec2{
+  height:36vh ;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: start;
+  
+}
+
+#div1,#div2,#div3{
+  
+  height: 12vh;
+  width: 33.33%;
+  border: 1px solid white;
+}
+
+#div4,#div5,#div6{
+  
+  height: 12vh;
+  width: 33.33%;
+  border: 1px solid white;
+}
+
+
+ #div1{
+  
+  background-color: rgb(11, 30, 173);  
+
+}
+
+#div2{
+  
+  background-color: rgb(126, 14, 201);  
+ 
+}
+
+#div3{
+  
+  background-color: rgb(206, 11, 59);  
+  
+}
+
+#div4{
+  
+  background-color: rgb(46, 197, 20); 
+
+}
+
+#div5{
+  
+  background-color: orange; 
+  
+}
+
+#div6{
+  
+  background-color: pink;
+ 
+}
+
